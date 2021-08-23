@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/87532267?s=200&v=4" align="center" />
+  <img src="https://user-images.githubusercontent.com/60251579/126070226-2f07b4e2-0767-4726-b135-cf121e2ba349.png" align="center" />
   <br />
   <h3 align="center">순천향대 멋쟁이사자처럼 9기 무쓸모톤 - 오랑구톡 </h3>
   </p>
@@ -80,6 +80,9 @@
 * Socket.io
 
 
+## UI
+
+![image](https://user-images.githubusercontent.com/60251579/126070385-648e19ef-38aa-479f-b74b-fdc9caccad78.png)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
